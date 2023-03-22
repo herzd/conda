@@ -29,3 +29,5 @@ be removed are:
 * appnope=0.1.0
 * libgfortran=3.0.1
 * libcxx=4.0.1
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/herzd/conda/HEAD)
