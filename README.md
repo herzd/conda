@@ -1,12 +1,10 @@
 # Conda environment with environment.yml
 
-Forked and deps changed to python 3.10 as repo2docker cannot handle 3.11 yet.
-
 A Binder-compatible repo with an `environment.yml` file.
 
-Access this Binder by clicking the blue badge above or at the following URL:
+NOTE: Forked and deps changed to python 3.10 as repo2docker cannot handle 3.11 yet.
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.ipynb
+Access this Binder by clicking the badge below.
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
