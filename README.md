@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.ipynb)
+Forked and deps changed to python 3.10 as repo2docker cannot handle 3.11 yet.
 
 A Binder-compatible repo with an `environment.yml` file.
 
@@ -30,4 +30,4 @@ be removed are:
 * libgfortran=3.0.1
 * libcxx=4.0.1
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/herzd/conda/HEAD)
+[![Binder](https://binder.westeurope.cloudapp.azure.com/badge_logo.svg)](https://binder.westeurope.cloudapp.azure.com/v2/gh/herzd/conda/HEAD)
